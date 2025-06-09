@@ -1,0 +1,20 @@
+sample & Buy
+반도체의 성능 기본사향 공지
+
+Documentation
+CAD resources
+Tools & Software
+Quality & Realiability
+Datasheet는 반도체에 대한 기본 정보를 담고 있음.
+ARN Cortex M7은 모든 핸드폰에 통용되는 칩.
+
+Thread: 프로세스 내에서 실행되는 흐름 단위를 의미.
+한 프로세서는 Thread를 1개 가지고 있으나,
+프로그램 환경에 따라 2개 이상의 Thread를 동시에 실행할 수 있음.
+
+PSP: Thread 모드에서만 사용.
+MSP: 리셋 이후 기본 stack pointer, exception에서 사용.
+
+APSR: 음수, 제로, 캐리, 오버플로우
+IPSR: 실행중인 ISR의 번호를 표시
+EPSR: T비트는 항상 1, 0이면 익셉션이 발생
